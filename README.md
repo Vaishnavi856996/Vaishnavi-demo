@@ -1,3 +1,6 @@
 # Vaishnavi-demo
 This is my first git repository 
-Author - Vaishnavi
+Author - Vaishnavi Shirsat(Model College)
+
+
+
